@@ -11,9 +11,9 @@ _A cleaner, simpler way to check an IP when you just want to ✅ it quickly._
 ## 🚀 Setup & Usage  
 1. Add your [Greynoise.io](https://viz.greynoise.io/account/api-key) API key to `config.php`.  
 2. Host the files on a PHP-enabled server.  
-3. Query any IP and get results fast. On the go, no login, get ip info and run.8
+3. Query any IP and get results fast. On the go, no login, get ip grab info and onto next task..
 
 ### 🔗 [Live Demo](https://synacknetwork.wuaze.com/greynoise/)
 
 That's it! Simple, fast, and effective.  
-Go ahead—smack it, throw it around, and get scanning!
+Go ahead—smack it, throw it around, smack that ass and get scanning!!
